@@ -9,10 +9,10 @@ Campus:
 Tutor: 
 
 # Project Report
-plan.md
-network.md
-cloud_1.md   
-reflection_1.md   
-security_1.md   
-ethical and Social Issues_1.md   
+plan.md  
+network.md  
+cloud.md   
+reflection.md   
+security.md   
+ethical and Social Issues.md   
 report_and_presentation.md
