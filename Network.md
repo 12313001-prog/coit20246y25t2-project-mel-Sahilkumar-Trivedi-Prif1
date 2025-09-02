@@ -42,7 +42,7 @@ The Brisbane office and HQ is a scaleable, reliable and secure network. The desi
 
  - Virtual Private Network (VPN) connection will ensure that data are securely transmitted and help protect sensitive company data when accessing information remotely or across sites.  
 
-![Network Design Diagram](images/Network-Design.png)
+![Network Design Diagram](Images/Network-Design.png)
 
 ## Subnetting Strategy:
 
@@ -75,7 +75,7 @@ To facilitate management of the network, and separation of inter-department traf
 
  - TravelAgency-IoT: Internet-of-Things (IoT) gadgets, such as sensors and security cameras, will be put on a special VLAN to enhance protection and avoid affecting the other network traffic (Alamleh et al., 2025).
 
- ![WiFi Design](images/Wifi-Architecture.png)  
+ ![WiFi Design](Images/Wifi-Architecture.png)  
 
 **Additional WiFi Settings**:
 
@@ -136,5 +136,6 @@ The following equipment is recomended based on thier performance, security measu
 Alamleh, H., Estremera, L., Arnob, S.S. and AlQahtani, A.A.S. (2025). Advanced Persistent Threats and Wireless Local Area Network Security: An In-Depth Exploration of Attack Surfaces and Mitigation Techniques. Journal of Cybersecurity and Privacy, [online] 5(2), p.27. doi:https://doi.org/10.3390/jcp5020027.
 
 Berto, R., Napoletano, P. and Savi, M. (2021). A LoRa-Based Mesh Network for Peer-to-Peer Long-Range Communication. Sensors, [online] 21(13), p.4314. doi:https://doi.org/10.3390/s21134314.
+
 
 Nguyen, C. and Cheema, A.A. (2021). A Deep Neural Network-Based Multi-Frequency Path Loss Prediction Model from 0.8 GHz to 70 GHz. Sensors, [online] 21(15), p.5100. doi:https://doi.org/10.3390/s21155100.
