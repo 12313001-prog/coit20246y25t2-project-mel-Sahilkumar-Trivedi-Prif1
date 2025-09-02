@@ -9,6 +9,8 @@ Campus:
 Tutor: 
 
 # Project Report
+plan.md
+network.md
 cloud_1.md   
 reflection_1.md   
 security_1.md   
